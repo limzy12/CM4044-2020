@@ -1,1 +1,8 @@
+./bin
+./etc
+./include
+./lib
+./pip-selfcheck.json
+./pyvenv.cfg
+./share
 4. 5. Machine Learning/5. Common ML Methods/mnist_784.csv
